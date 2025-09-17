@@ -23,4 +23,5 @@
 ### 📫 Как со мной связаться:
 **Telegram**: https://t.me/khose007 <br>
 **Email**: khose007@yandex.ru <br>
+![Snake animation](https://github.com/Khosep/Khosep/blob/output/github-snake.svg)
 
